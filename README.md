@@ -1,7 +1,4 @@
-# Hi, I'm [Bousalem Seyf] 👋
-
-### Geophysicist Engineer | Aspiring Data Analyst
-
+# Seyf Bousalem | Geophysicist Engineer & Aspiring Data Analyst 
 I am a **Geophysicist Engineer** with a passion for transitioning into the dynamic field of **Data Analytics**. I’ve completed the **Google Data Analytics Professional Certificate** and am currently pursuing a **Data Analytics certificate at LaGuardia Community College** to further enhance my analytical and technical skills.
 
 ## 🎓 Education
@@ -9,15 +6,15 @@ I am a **Geophysicist Engineer** with a passion for transitioning into the dynam
 - **Data Analytics Foundations Course** (Ongoing) at LaGuardia Community College
 
 ## 🔬 Engineering Background
-My experience as a Geophysicist has taught me to work with large, complex datasets and to develop solutions to scientific and engineering challenges. Now, I’m focusing on using data analytics tools to uncover actionable insights and improve decision-making processes.
-
+Worked with multi-gigabyte seismic datasets to identify geological trends, improving exploration efficiency.”
 ## 💻 Skills
-- **Data Analytics Tools**: Excel, SQL, R, Python
+- **Data Analytics Tools**:Data Analytics Tools: Excel, SQL (PostgreSQL), R, Python (Pandas, NumPy)
 - **Data Visualization**: Tableau, Power BI
 - **Problem-Solving**: Analyzing and interpreting data to provide solutions
 
-## 🌟 Future Goals
-I am focused on becoming a **Data Analyst** and leveraging both my engineering expertise and data analytics skills to make impactful contributions across industries.
+## 🌟 Future Goals 
+Currently building projects in SQL and Python to showcase in my portfolio.
+Shows you’re actively developing your portfolio.
 
 <!---
 bousalemseyf/bousalemseyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
