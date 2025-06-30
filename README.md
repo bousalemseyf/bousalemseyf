@@ -14,7 +14,6 @@ Worked with multi-gigabyte seismic datasets to identify geological trends, impro
 
 ## 🌟 Future Goals 
 Currently building projects in SQL and Python to showcase in my portfolio.
-Shows you’re actively developing your portfolio.
 
 <!---
 bousalemseyf/bousalemseyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
